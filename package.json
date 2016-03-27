@@ -1,11 +1,14 @@
 {
   "name": "timemicroserver",
   "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "alpha of time microserver",
   "main": "server.js",
   "repository": "",
   "author": "Benjamin Hicks <benjamin.w.hicks@gmail.co,",
   "dependencies": {
     "stfrtime": "~0.9.2"
+  }
+  "engines": { 
+    "node": "4.1.1"
   }
 }
